@@ -1,0 +1,3 @@
+{
+    TOKEN = '5259689555:AAF6gID5qmxj6yHbiq3ZH1acw2yV13eJ8Y8'
+}
